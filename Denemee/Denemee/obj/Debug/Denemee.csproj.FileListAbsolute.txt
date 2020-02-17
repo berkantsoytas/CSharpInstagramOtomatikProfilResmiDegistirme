@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Denemee\Denemee\bin\Debug\Denemee.exe.config
+C:\Users\User\source\repos\Denemee\Denemee\bin\Debug\Denemee.exe
+C:\Users\User\source\repos\Denemee\Denemee\bin\Debug\Denemee.pdb
+C:\Users\User\source\repos\Denemee\Denemee\bin\Debug\InstagramApiSharp.dll
+C:\Users\User\source\repos\Denemee\Denemee\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\source\repos\Denemee\Denemee\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.Form1.resources
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.Properties.Resources.resources
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.csproj.CopyComplete
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.exe
+C:\Users\User\source\repos\Denemee\Denemee\obj\Debug\Denemee.pdb
